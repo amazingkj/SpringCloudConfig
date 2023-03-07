@@ -3,4 +3,17 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem/testdb
     username: sa
+<<<<<<< HEAD
     password : sa
+=======
+    password : '{cipher}98c976d7f73a6c3425792a6d9e68d0b8804118b68b7649de7a47097854149c8d'
+
+token:
+  expiration_time: 864000000
+  secret: '{cipher}c30c2705abef6b7485df6e574fd1c1781d3f462446a201799dcdc24bcc481067'
+
+gateway:
+  ip: 172.27.192.1
+#172.27.192.1
+#192.168.0.5
+>>>>>>> a600613 (update)
