@@ -1,0 +1,7 @@
+tocken:
+  ecpiration_time: 864000000
+  secret: user_token
+
+gateway:
+  ip: 172.27.192.1
+
