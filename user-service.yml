@@ -10,7 +10,7 @@ token:
   secret: '{cipher}c30c2705abef6b7485df6e574fd1c1781d3f462446a201799dcdc24bcc481067'
 
 gateway:
-  ip: 172.27.192.1
+  ip: 172.18.0.5
 #172.27.192.1
 #192.168.0.5
->>>>>>> a600613 (update)
+
